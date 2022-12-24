@@ -7,4 +7,9 @@
 ## Another one syntax rool: ##
 * to make an unnumbered string use asterisk + space (*_) before string.
 
-<font size="1">~~France~~ Argentina is the champion. </font>
+# Git guide
+## Commands to use:
+
+* clone - clone a repository into a new directory
+* pull  - fetch from and integrate with another repository or a local branch
+* push - update remote refs along with associated objects
